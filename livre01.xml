@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pikachu - Base Oficial Da Tv</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/lOnHDqG.jpg" />
+<meta http-equiv="refresh" content="0;url=https://bit.ly/pikachuweb" />
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="robots" content="noindex,nofollow" />
+<meta name="viewport" content="width=device-width, minimum-scale=0.1" />
+<style>
+body {
+margin:0px;
+font-family:Helvetica,sans-serif;
+}
+header {
+background: #369fcf;  /* safari only */
+background: #369fcf url("https://i.imgur.com/WQNErVg.jpg") no-repeat scroll center bottom / 32vh auto;
+box-sizing: border-box;
+color: white;
+max-height: 70vh;
+padding: 20px; /* safari only */
+padding: 20px 20px 30vh;
+text-align: center;
+}
+header span {
+font-size: 50px;
+font-size:25vmin;
+text-shadow:1px 1px 0px #277ca5;
+display:inline-block;
+}
+header div {
+font-size:1.2em;
+}
+header a {
+color:#DDD;
+text-decoration:none;
+}
+main {
+border-top:20px solid #369fcf;
+background-color:#FFF;
+max-height: 30vh;
+}
+main hr {
+border-bottom:0 none;
+border-top:20px solid #277ca5;
+margin:0;
+}
+main div.buttons {
+margin:20px auto auto;
+text-align:center;
+}
+main div.buttons a {
+border:medium none;
+cursor:pointer;
+display:inline-block;
+font-size:18px;
+outline:medium none;
+padding:15px 20px;
+position:relative;
+text-transform:uppercase;
+transition:all 0.2s ease-in-out 0s;
+background-color:#2e3133;
+border-color:#2e3133;
+color:white;
+text-decoration:none;
+margin:10px;
+width:150px;
+text-align:center;
+}
+footer div.icon {
+clear:both;
+text-align:center;
+margin-top:20px;
+}
+@-webkit-keyframes wobble {
+from {
+-webkit-transform:none;
+transform:none;
+}
+15% {
+-webkit-transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);
+transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);
+}
+30% {
+-webkit-transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);
+transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);
+}
+45% {
+-webkit-transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);
+transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);
+}
+60% {
+-webkit-transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);
+transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);
+}
+75% {
+-webkit-transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);
+transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);
+}
+to {
+-webkit-transform:none;
+transform:none;
+}
+}
+@keyframes wobble {
+from {
+-webkit-transform:none;
+transform:none;
+}
+15% {
+-webkit-transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);
+transform:translate3d(-25%,0,0) rotate3d(0,0,1,-5deg);
+}
+30% {
+-webkit-transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);
+transform:translate3d(20%,0,0) rotate3d(0,0,1,3deg);
+}
+45% {
+-webkit-transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);
+transform:translate3d(-15%,0,0) rotate3d(0,0,1,-3deg);
+}
+60% {
+-webkit-transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);
+transform:translate3d(10%,0,0) rotate3d(0,0,1,2deg);
+}
+75% {
+-webkit-transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);
+transform:translate3d(-5%,0,0) rotate3d(0,0,1,-1deg);
+}
+to {
+-webkit-transform:none;
+transform:none;
+}
+}
+.wobble {
+-webkit-animation-duration:1s;
+animation-duration:1s;
+-webkit-animation-fill-mode:both;
+animation-fill-mode:both;
+-webkit-animation-name:wobble;
+animation-name: wobble;
+}
+</style>
+</head>
+<body>
+<header>
+<span class="wobble">Bit.ly/pikachuweb</span>
+<div>*Não copie estude aprenda, A cópia não te encinará nada.*<br />*Louvado Seja DEUS.* <a href="/">*Pikachu Entretenimentos.Retornar Para o Site.*</a>.</div>
+</header>
+<main>
+<hr />
+<div class="buttons">
+<a onclick="window.history.back();">Pikachu</a>
+<a href="/">Entretenimentos</a>
+</div>
+</main>
+</body>
+</html>
+<div id="div" style="display:none">
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+<item>
+<title>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]SR. MILTOM VIP [COLOR gray] ( OBG: POR SER VIP )[COLOR goldenrod] ||| [COLOR gray]® ( SAC ASEGUIR -> ) ®,[COLOR goldenrod] ||| [COLOR gray]® [ (SAC -> NÚMERO (85) 9 9856-5875 ) ®,[COLOR goldenrod] ||| [COLOR gray]® JOSE MILTON VIP ) ®[COLOR goldenrod] |||[/COLOR][/B]</title>
+<genre>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]SR. MILTOM VIP [COLOR gray] ( OBG: POR SER VIP )[COLOR goldenrod] ||| [COLOR gray]® ( SAC ASEGUIR -> ) ®,[COLOR goldenrod] ||| [COLOR gray]® [ (SAC -> NÚMERO (85) 9 9856-5875 ) ®,[COLOR goldenrod] ||| [COLOR gray]® JOSE MILTON VIP ) ®[COLOR goldenrod] |||[/COLOR][/B]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://pikachuentretenimentos.solidcommunity.net/public/AddonPikachu/PikachuBaseOficial/VideoOficialDoVip.html</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<summary>[B][COLOR  gray]® [COLOR  goldenrod]Pikachu Entretenimentos[COLOR  gray]®[COLOR forestgreen]Bit.ly/pikachuweb[/COLOR][/B]</summary>
+</item>
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+<item>
+<title>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]TV AO VIVO[COLOR goldenrod] |||[/COLOR][/B]</title>
+<genre>[COLOR  gray]®Pikachu®, Tv ao Vivo,         100% Grátis[/COLOR]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://pikachuentretenimentos.solidcommunity.net/public/AddonPikachu/Area_Vip/Vip_Jose_Milton/Tv/SubMenuDaTvVipJoseMilton.html</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<summary>[B][COLOR  gray]® [COLOR  goldenrod]Pikachu Entretenimentos[COLOR  gray]® [COLOR  forestgreen] Trabalhando Pra o Seu Conforto.[/COLOR][/B]</summary>
+</item>
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+<item>
+<title>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]FILMES[COLOR goldenrod] |||[/COLOR][/B]</title>
+<genre>[COLOR  gray]®Pikachu®, Filmes,           100% Grátis[/COLOR]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://pikachuentretenimentos.solidcommunity.net/public/AddonPikachu/Filmes/BaseDosFilmes/BasePrincipal/BasePrincipalDosFilmes.html</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<summary>[B][COLOR  gray]® [COLOR  goldenrod]Pikachu Entretenimentos[COLOR  gray]® [COLOR  forestgreen] Trabalhando Pra o Seu Conforto.[/COLOR][/B]</summary>
+</item>
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+<item>
+<title>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]SÉRIES[COLOR goldenrod] |||[/COLOR][/B]</title>
+<genre>[COLOR  gray]®Pikachu®, Séries,           100% Grátis[/COLOR]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://pikachuentretenimentos.solidcommunity.net/public/AddonPikachu/Series/BasePrincipalDasSeries/BasePrincipalDasSeries.html</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<summary>[B][COLOR  gray]® [COLOR  goldenrod]Pikachu Entretenimentos[COLOR  gray]® [COLOR  forestgreen] Trabalhando Pra o Seu Conforto.[/COLOR][/B]</summary>
+</item>
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+<item>
+<title>[B][COLOR gray]® [COLOR goldenrod]PIKACHU[COLOR gray] ®[COLOR forestgreen] ● [COLOR goldenrod] ||| [COLOR forestgreen]RÁDIOS[COLOR goldenrod] |||[/COLOR][/B]</title>
+<genre>[COLOR  gray]®Pikachu®, Rádios,          100% Grátis[/COLOR]</genre>
+<thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
+<externallink>https://pikachuentretenimentos.solidcommunity.net/public/AddonPikachu/Radios/Base/PikachuBaseDasRadios.html</externallink>
+<fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
+<summary>[B][COLOR  gray]® [COLOR  goldenrod]Pikachu Entretenimentos[COLOR  gray]® [COLOR  forestgreen] Trabalhando Pra o Seu Conforto.[/COLOR][/B]</summary>
+</item>
+👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+</div>
